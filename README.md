@@ -1,4 +1,5 @@
-# GamerGuides1012
+# GamerGuides1012 
+I have re-wrote my original code from Vue.js2 to NuxtJS.
 
 ## Build Setup
 
